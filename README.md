@@ -31,21 +31,18 @@ Creating and provisioning a virtual Active Directory server and a client node to
 <h2>Actions and Observations</h2>
 
 <p>
-![image](https://github.com/dhazard505/Active-Director-Lab/assets/73792669/4dc5da90-99ee-4cdc-976a-97e371b7e0a6)
-
+<img src="https://github.com/dhazard505/Active-Director-Lab/assets/73792669/4dc5da90-99ee-4cdc-976a-97e371b7e0a6" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this screenshot I am creating a resource group that will act as a logical container for all related resources.
-</p>
-<br />
-
-<p>
-<img src="https://github.com/dhazard505/dhazard505/blob/main/2023-12-01%20(1).png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-This is a screenshot of the creation of a virtual machine called VM2. This virtual machine is running Ubuntu 22.04. 
+Preparing the Active Directory server so that it becomes a Domain Controller through the Add Roles and features wizard.
 </p>
 <br />
 
 <p>
-<img src="https://github.com/dhazard505/Create-Azure-Resources/blob/main/2023-12-01%20(2).png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/dhazard505/Active-Directory-Lab/assets/73792669/3dc0970e-c435-42e2-a54d-34f2ac11636a" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Creating a user that would be assigned as administrator to the _ADMINS organizational unit.
+</p>
+<br />
+
