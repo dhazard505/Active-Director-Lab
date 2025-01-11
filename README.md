@@ -34,7 +34,7 @@ Creating and provisioning a virtual Active Directory server and a client node to
 <img src="https://github.com/dhazard505/Active-Director-Lab/assets/73792669/4dc5da90-99ee-4cdc-976a-97e371b7e0a6" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Preparing the Active Directory server so that it becomes a Domain Controller through the Add Roles and features wizard.
+Preparing the Active Directory server so that it becomes a Domain Controller through the Add Roles and features wizard in Windows Server 2022.
 </p>
 <br />
 
