@@ -1,5 +1,5 @@
 
-<img src="https://www.safesystems.com/wp-content/uploads/2020/04/Microsofts-LDAP-Security-Update-and-the-Impact-on-Financial-Institutions-Today-Header-Blog-Image.png" alt="Traffic Examination"/>
+<img src="https://cdn-dclcg.nitrocdn.com/aNyVSmoYXSpfREUtzauWNnIBSBYijKrg/assets/images/optimized/rev-4abf37a/www.crmjetty.com/wp-content/uploads/2021/06/How_to_Register_Azure_Active_Directory_App_for_oAuth-1.jpg" alt="Traffic Examination"/>
 
 
 <h1>Azure Active Directory Lab</h1>
